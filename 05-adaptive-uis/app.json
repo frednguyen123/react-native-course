@@ -3,7 +3,7 @@
     "name": "04-deepdive-minigameapp",
     "slug": "04-deepdive-minigameapp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
